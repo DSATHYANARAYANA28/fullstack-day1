@@ -1,0 +1,64 @@
+header{
+  background-color: #0d6efd;
+  border: 2px solid #A9A9A9;
+  background-color: #f1f1f1;
+  padding: 10px 20px;
+  /*display: flex;
+  flex-direction: row;
+  justify-content: space-between; */
+}
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #212529;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: white;
+  padding: 20px 30px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+h1, h2, h5 {
+  color: #0d6efd;
+}
+
+h1 {
+  font-weight: 700;
+  margin-bottom: 0.3em;
+}
+
+h2 {
+  border-bottom: 2px solid #0d6efd;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+.contact-info a {
+  color: #0d6efd;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-bottom: 1em;
+}
